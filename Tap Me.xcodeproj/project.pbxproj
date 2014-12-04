@@ -405,6 +405,7 @@
 				0027223D1A29A87800DA53C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0027223E1A29A87800DA53C6 /* Build configuration list for PBXNativeTarget "Tap MeTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				002722401A29A87800DA53C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
